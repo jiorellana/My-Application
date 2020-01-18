@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="question_label_text">What is the meaning of life?</string>
+    <string name="answer_text_field_text">Enter text here</string>
+    <string name="submit_button_text">SubmitAnswer</string>
+    <string name="answer_label_text_default">-----</string>
+    <string name="answer_label_text_correct">Correct</string>
+    <string name="answer_label_text_incorrect">Incorrect</string>
 </resources>
